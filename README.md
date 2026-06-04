@@ -4,7 +4,7 @@
 
 O PULSE Financeiro é uma plataforma de inteligência financeira pessoal desenvolvida para transformar dados financeiros em decisões mais inteligentes.
 
-Mais do que um sistema de controle financeiro, o PULSE reúne gestão financeira, análise de dados, projeções, planejamento familiar e inteligência artificial em uma única plataforma.
+Mais do que um sistema de controle financeiro, o PULSE reúne gestão financeira, análise de dados, planejamento familiar, investimentos e inteligência artificial em uma única plataforma.
 
 ---
 
@@ -18,7 +18,7 @@ A plataforma permite acompanhar receitas, despesas, contas recorrentes, parcelam
 
 # ✨ Principais Funcionalidades
 
-### 📈 Dashboard Financeiro Inteligente
+## 📈 Dashboard Financeiro Inteligente
 
 * Visão consolidada da saúde financeira
 * Receita mensal
@@ -29,21 +29,21 @@ A plataforma permite acompanhar receitas, despesas, contas recorrentes, parcelam
 
 ---
 
-### 🤖 PULSE IA Financeira
+## 🤖 PULSE IA Financeira
 
 Assistente financeiro inteligente capaz de responder perguntas como:
 
 * Qual meu saldo real hoje?
 * Quanto entrou este mês?
 * Quais contas devo priorizar?
-* Qual minha projeção para o fim do mês?
+* Quanto posso gastar sem comprometer minhas finanças?
 * Como melhorar meu score financeiro?
 
 Respostas rápidas, objetivas e baseadas nos dados financeiros do usuário.
 
 ---
 
-### 📅 Calendário Financeiro
+## 📅 Calendário Financeiro
 
 Controle completo de:
 
@@ -56,7 +56,7 @@ Controle completo de:
 
 ---
 
-### 💳 Gestão de Cartões de Crédito
+## 💳 Gestão de Cartões de Crédito
 
 * Controle de limite
 * Controle de faturas
@@ -65,7 +65,7 @@ Controle completo de:
 
 ---
 
-### 🔁 Contas Recorrentes
+## 🔁 Contas Recorrentes
 
 Cadastro e gerenciamento de:
 
@@ -78,7 +78,7 @@ Cadastro e gerenciamento de:
 
 ---
 
-### 📦 Parcelamentos
+## 📦 Parcelamentos
 
 Controle automático de:
 
@@ -89,7 +89,7 @@ Controle automático de:
 
 ---
 
-### 📺 Assinaturas
+## 📺 Assinaturas
 
 Controle de serviços recorrentes:
 
@@ -103,7 +103,7 @@ Controle de serviços recorrentes:
 
 ---
 
-### 💰 Investimentos
+## 💰 Investimentos
 
 Gestão simplificada de:
 
@@ -123,7 +123,7 @@ Com acompanhamento de:
 
 ---
 
-### 👨‍👩‍👧‍👦 Modo Família
+## 👨‍👩‍👧‍👦 Modo Família
 
 Controle financeiro compartilhado entre membros da família.
 
@@ -136,7 +136,7 @@ Permite acompanhar:
 
 ---
 
-### 🏆 PULSE Score
+## 🏆 PULSE Score
 
 Sistema próprio de pontuação financeira.
 
@@ -150,9 +150,9 @@ Avalia indicadores como:
 
 ---
 
-### 📊 Dashboards Analíticos
+## 📊 Dashboards Analíticos
 
-Visualização avançada dos dados através de:
+Visualização avançada através de:
 
 * Fluxo de Caixa
 * Distribuição de despesas
@@ -165,19 +165,19 @@ Visualização avançada dos dados através de:
 
 ## Dashboard Principal
 
-![Dashboard Principal](screenshots/dashboard-principal.png)
+![Dashboard Principal](screenshots/dashboard_principal.png)
 
 ---
 
 ## Dashboards e Gráficos
 
-![Dashboards e Gráficos](screenshots/dashboard-graficos.png)
+![Dashboards e Gráficos](screenshots/dashboards%20e%20grafitos.png)
 
 ---
 
 ## Contas Recorrentes
 
-![Contas Recorrentes](screenshots/contas-recorrentes.png)
+![Contas Recorrentes](screenshots/contas%20recorrentes%20.png)
 
 ---
 
@@ -195,19 +195,19 @@ Visualização avançada dos dados através de:
 
 ## Investimentos
 
-![Investimentos](screenshots/investimentos.png)
+![Investimentos](screenshots/Investimentos.png)
 
 ---
 
 ## Carteira de Investimentos
 
-![Carteira de Investimentos](screenshots/carteira-investimentos.png)
+![Carteira de Investimentos](screenshots/Carteira%20de%20Investimentos.png)
 
 ---
 
 ## Modo Família
 
-![Modo Família](screenshots/modo-familia.png)
+![Modo Família](screenshots/Modo%20Familia.png)
 
 ---
 
@@ -215,21 +215,23 @@ Visualização avançada dos dados através de:
 
 ✅ Inteligência Artificial Financeira
 
-✅ Respostas por voz
-
-✅ Interface Premium
+✅ Assistente por Voz
 
 ✅ PULSE Score Exclusivo
 
 ✅ Gestão Financeira Familiar
 
-✅ Planejamento Financeiro
+✅ Controle de Assinaturas
 
-✅ Controle de Investimentos
+✅ Controle de Parcelamentos
+
+✅ Gestão de Investimentos
+
+✅ Dashboards Interativos
 
 ✅ Relatórios Inteligentes
 
-✅ Dashboards Interativos
+✅ Interface Premium
 
 ---
 
@@ -248,22 +250,45 @@ Visualização avançada dos dados através de:
 
 Próximas evoluções previstas:
 
+### Curto Prazo
+
 * Login de usuários
 * Banco de dados em nuvem
-* Aplicativo Mobile
-* Open Finance
-* Integração bancária
-* IA avançada para planejamento financeiro
-* Sincronização em tempo real
 * Backup automático
+* Melhorias na IA Financeira
+
+### Médio Prazo
+
+* Aplicativo Android
+* Aplicativo iOS
+* Sincronização entre dispositivos
+* Compartilhamento familiar avançado
+
+### Longo Prazo
+
+* Integração Open Finance
+* Conexão bancária automática
+* IA financeira avançada
+* Recomendações financeiras inteligentes
+* Planejamento financeiro automatizado
+
+---
+
+# 📈 Visão do Projeto
+
+O PULSE Financeiro nasceu com o objetivo de ir além do simples controle financeiro.
+
+A proposta é criar um verdadeiro assistente financeiro pessoal capaz de interpretar dados, gerar análises, sugerir prioridades e auxiliar na tomada de decisões financeiras do dia a dia.
 
 ---
 
 # 📌 Status do Projeto
 
-Projeto em desenvolvimento contínuo.
+🟢 Em desenvolvimento ativo.
 
-O objetivo é evoluir o PULSE para uma plataforma completa de inteligência financeira pessoal e familiar.
+Este repositório contém apenas uma demonstração pública do projeto.
+
+O código-fonte principal permanece privado.
 
 ---
 
@@ -276,9 +301,6 @@ Estudante de Engenharia de Dados | Desenvolvimento de Produtos Digitais | Inteli
 GitHub:
 https://github.com/Liza-life
 
-LinkedIn:
-(Adicionar seu LinkedIn)
-
 ---
 
 # ⚠️ Licença
@@ -290,28 +312,3 @@ Todos os direitos reservados.
 Este repositório contém apenas material demonstrativo do projeto.
 
 O código-fonte principal é privado e protegido por licença proprietária.
-
-## Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- LocalStorage
-- Inteligência Artificial aplicada à análise financeira
-
----
-
-## Status do projeto
-
-Em desenvolvimento contínuo.
-
-Este repositório é apenas uma demonstração pública do projeto.  
-O código-fonte principal é privado.
-
----
-
-## Autoria
-
-Desenvolvido por Lizandra Ruiz.
-
-© 2026 PULSE Financeiro. Todos os direitos reservados.
