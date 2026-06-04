@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PULSE Financeiro</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+font-family:'Syne',sans-serif;
+background:#050912;
+color:white;
+}
+
+.hero{
+min-height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+padding:40px;
+text-align:center;
+background:
+radial-gradient(circle at top,#00e5a022,transparent 50%),
+#050912;
+}
+
+.container{
+max-width:1200px;
+margin:auto;
+}
+
+.logo{
+font-size:60px;
+font-weight:800;
+margin-bottom:20px;
+}
+
+.logo span{
+color:#00e5a0;
+}
+
+.subtitle{
+font-size:22px;
+color:#aab6d6;
+margin-bottom:30px;
+}
+
+.description{
+max-width:800px;
+margin:auto;
+line-height:1.8;
+color:#cfd8f6;
+font-size:18px;
+}
+
+.buttons{
+margin-top:40px;
+display:flex;
+justify-content:center;
+gap:15px;
+flex-wrap:wrap;
+}
+
+.btn{
+padding:14px 28px;
+border-radius:10px;
+text-decoration:none;
+font-weight:700;
+transition:.3s;
+}
+
+.btn-primary{
+background:#00e5a0;
+color:black;
+}
+
+.btn-secondary{
+border:1px solid #00e5a0;
+color:#00e5a0;
+}
+
+.features{
+padding:80px 20px;
+}
+
+.features h2{
+text-align:center;
+font-size:40px;
+margin-bottom:50px;
+}
+
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:20px;
+}
+
+.card{
+background:#0c1220;
+padding:25px;
+border-radius:15px;
+border:1px solid rgba(255,255,255,.08);
+}
+
+.card h3{
+margin-bottom:10px;
+color:#00e5a0;
+}
+
+.gallery{
+padding:80px 20px;
+}
+
+.gallery h2{
+text-align:center;
+margin-bottom:40px;
+font-size:40px;
+}
+
+.gallery img{
+width:100%;
+border-radius:15px;
+margin-bottom:20px;
+border:1px solid rgba(255,255,255,.08);
+}
+
+.footer{
+padding:40px;
+text-align:center;
+color:#7d89a8;
+border-top:1px solid rgba(255,255,255,.08);
+}
+
+</style>
+
+</head>
+
+<body>
+
+<section class="hero">
+
+<div class="container">
+
+<div class="logo">
+PULSE <span>Financeiro</span>
+</div>
+
+<p class="subtitle">
+A Inteligência Financeira que Age com Você
+</p>
+
+<p class="description">
+Uma plataforma de inteligência financeira pessoal que combina gestão financeira, dashboards analíticos, investimentos, planejamento familiar e inteligência artificial em uma única experiência.
+</p>
+
+<div class="buttons">
+
+<a class="btn btn-primary"
+href="https://github.com/Liza-life/Pulse-Financeiro-Demo">
+GitHub Demo </a>
+
+<a class="btn btn-secondary"
+href="https://www.linkedin.com/in/lizandra-ruiz-890268381/">
+LinkedIn </a>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="features">
+
+<h2>Principais Recursos</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>🤖 IA Financeira</h3>
+<p>Respostas inteligentes sobre saldo, despesas e planejamento financeiro.</p>
+</div>
+
+<div class="card">
+<h3>🏆 PULSE Score</h3>
+<p>Sistema próprio de avaliação da saúde financeira.</p>
+</div>
+
+<div class="card">
+<h3>📅 Calendário Financeiro</h3>
+<p>Controle completo de vencimentos e recebimentos.</p>
+</div>
+
+<div class="card">
+<h3>👨‍👩‍👧‍👦 Modo Família</h3>
+<p>Gestão financeira compartilhada entre familiares.</p>
+</div>
+
+<div class="card">
+<h3>💰 Investimentos</h3>
+<p>Acompanhamento da carteira e rentabilidade.</p>
+</div>
+
+<div class="card">
+<h3>📊 Dashboards</h3>
+<p>Indicadores e análises financeiras em tempo real.</p>
+</div>
+
+</div>
+
+</section>
+
+<section class="footer">
+
+© 2026 PULSE Financeiro<br>
+Desenvolvido por Lizandra Ruiz
+
+</section>
+
+</body>
+</html>
